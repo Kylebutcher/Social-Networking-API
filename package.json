@@ -1,6 +1,19 @@
 {
   "dependencies": {
     "express": "^4.19.2",
-    "moment": "^2.30.1"
-  }
+    "moment": "^2.30.1",
+    "mongoose": "^8.4.1"
+  },
+  "name": "homework18",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
